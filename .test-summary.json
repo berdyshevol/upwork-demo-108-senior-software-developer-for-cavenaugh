@@ -1,0 +1,9 @@
+{
+  "total": 8,
+  "passing": 8,
+  "spec_files": [
+    "tests/dashboard.spec.ts",
+    "tests/leads.spec.ts",
+    "tests/api.spec.ts"
+  ]
+}
